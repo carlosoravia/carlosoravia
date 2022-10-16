@@ -4,7 +4,7 @@
   <br>
   - 🧑🏻‍💻 I learned: HTML / CSS / JS / PHP 
   <br>
-  - 🌱 I’m currently learning: React / Laravel 
+  - 🌱 I’m currently learning: Python  
   <br>
   - 📫 How to reach me carlo.soravia99@gmail.com
 </p>

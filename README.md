@@ -1,4 +1,4 @@
-<h1 style="color:#BF2124;"> 👋 Hi, I’m @carlosoravia </h1> 
+<h1 style="color:#BF2124; !important"> 👋 Hi, I’m @carlosoravia </h1> 
 <p>
   - 💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.
   <br>

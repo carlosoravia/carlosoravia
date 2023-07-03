@@ -19,4 +19,4 @@
     </li>
   </ul>
 </p>
-${This\ is\ a\ {\color{red}Big}}\ Title$
+

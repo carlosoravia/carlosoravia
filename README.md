@@ -1,6 +1,6 @@
 <style>
   .title{
-    color:color:#BF2124;;
+    color:#BF2124;
   }
 </style>
 <h1 class="title"> 👋 Hi, I’m @carlosoravia </h1> 

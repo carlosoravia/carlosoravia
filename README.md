@@ -1,10 +1,15 @@
-<h1 style="color:#BF2124; !important"> 👋 Hi, I’m @carlosoravia </h1> 
+<h1 style="color:#BF2124; !important"> 👋 Hi, I’m @carlosoravia </h1>
+<ul>
+  <li>💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.</li>
+  <li>🧑🏻‍💻 I learned: HTML / CSS / JS / PHP </li>
+  <li>🌱 Tecnologies / Framework / Libraries: Bootstrap - Tailwind - Twig - <strong>Laravel</strong> - React</li>
+</ul>
 <p>
-  - 💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.
+  - 
   <br>
-  - 🧑🏻‍💻 I learned: HTML / CSS / JS / PHP 
+  - 
   <br>
-  - 🌱 I’m currently learning: React and Arduino projects.
+  
   <br>
   - 📫 How to reach me <a href="mailto:carlo.soravia99@gmail.com">carlo.soravia99@gmail.com</a>
 </p>

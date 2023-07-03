@@ -11,7 +11,7 @@
 ## Sites i've workied on
 <p>
   <ul>
-    <li><a href="https://www.duelune.com" target="_blank">duelune.com/</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this projectt was to follow the screenshots given by the other team and nothing more. 
+    <li><a href="https://www.duelune.com/" target="_blank">duelune.com</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this projectt was to follow the screenshots given by the other team and nothing more. 
       <br>
       I used Tiwig as engine template (PHP based) with a CSM for special offers or other dynamic contents.
       <br>

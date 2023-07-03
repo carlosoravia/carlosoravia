@@ -1,4 +1,4 @@
-<h1 style="color:#BF2124; !important"> 👋 Hi, I’m @carlosoravia </h1>
+## 👋 Hi, I’m @carlosoravia
 <p>
   <ul>
     <li>💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.</li>
@@ -8,10 +8,10 @@
   </ul>
 </p>
 
-<h2 style="color:#BF2124;">Sites i've workied on</h2>
+## Sites i've workied on
 <p>
   <ul>
-    <li><a style="color: #0ABAB5;" href="https://www.duelune.com/" target="_blank">duelune.com/</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this projectt was to follow the screenshots given by the other team and nothing more. 
+    <li><a href="https://www.duelune.com" target="_blank">duelune.com/</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this projectt was to follow the screenshots given by the other team and nothing more. 
       <br>
       I used Tiwig as engine template (PHP based) with a CSM for special offers or other dynamic contents.
       <br>

@@ -4,7 +4,7 @@
     <li>💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.</li>
     <li>🧑🏻‍💻 I learned: HTML / CSS / JS / PHP </li>
     <li>🌱 Tecnologies / Framework / Libraries: Bootstrap - Tailwind - Twig - <strong>Laravel</strong> - React</li>
-    <li>📫 do you want to chat ? <a href="mailto:carlo.soravia99@gmail.com">$\textcolor{green}{Click Me!}$</a></li>
+    <li>📫 do you want to chat ? <a href="mailto:carlo.soravia99@gmail.com">${\textcolor{green}{Click Me!}}$</a></li>
   </ul>
 </p>
 

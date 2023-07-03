@@ -4,7 +4,7 @@
     <li>💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.</li>
     <li>🧑🏻‍💻 I learned: HTML / CSS / JS / PHP </li>
     <li>🌱 Tecnologies / Framework / Libraries: Bootstrap - Tailwind - Twig - <strong>Laravel</strong> - React</li>
-    <li>📫 do you want to chat ? <a href="mailto:carlo.soravia99@gmail.com">Click Me!</a></li>
+    <li>📫 Do you want to chat ? <a href="mailto:carlo.soravia99@gmail.com">Click Me!</a></li>
   </ul>
 </p>
 
@@ -15,7 +15,7 @@
       <br>
       I used Tiwig as engine template (PHP based) with a CSM for special offers or other dynamic contents.
       <br>
-      For fornt-end part we decided to use Bootstrap for gryds parts, Jquery / CSS for animations and Vanilla Javascript fot the logic.  
+      For front-end part we decided to use Bootstrap for gryds parts, Jquery / CSS for animations and Vanilla Javascript fot the logic.  
     </li>
   </ul>
 </p>

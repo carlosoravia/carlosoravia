@@ -11,11 +11,17 @@
 ## Sites i've workied on
 <p>
   <ul>
-    <li><a href="https://www.duelune.com/" target="_blank">duelune.com</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this project was to follow the screenshots given by the other team and nothing more. 
+    <li>
+      <a href="https://www.duelune.com/" target="_blank">duelune.com</a>: for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this project was to follow the screenshots given by the other team and nothing more. 
       <br>
       I used Tiwig as engine template (PHP based) with a CSM for special offers or other dynamic contents.
       <br>
       For front-end part we decided to use Bootstrap for gryds parts, Jquery / CSS for animations and Vanilla Javascript fot the logic.  
+    </li>
+    <li>
+        <a href="https://www.berinox.com/" target="_blank">berinox.com</a>: The frontend of the site was an already existing template which was created by an old employee of the company.
+        <br>
+        For this project i've created all the pages but i didn't touch the navbar or other parts, my task was to create the pages and improve the video on the homepage. 
     </li>
   </ul>
 </p>

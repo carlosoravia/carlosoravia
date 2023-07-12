@@ -18,6 +18,7 @@
       <br>
       For front-end part we decided to use Bootstrap for gryds parts, Jquery / CSS for animations and Vanilla Javascript fot the logic.  
     </li>
+    <br>
     <li>
         <a href="https://www.berinox.com/" target="_blank">berinox.com</a>: The frontend of the site was an already existing template which was created by an old employee of the company.
         <br>

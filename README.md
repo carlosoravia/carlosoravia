@@ -3,7 +3,7 @@
   <ul>
     <li>💁🏻‍♂️ I'm a full-stack developer who has the passion of music and culture.</li>
     <li>🧑🏻‍💻 I learned: HTML / CSS / JS / PHP </li>
-    <li>🌱 Tecnologies / Framework / Libraries: Bootstrap - Tailwind - Twig - <strong>Laravel</strong> - React</li>
+    <li>🌱 Tecnologies / Framework / Libraries: Bootstrap - Twig - Laravel - React(learning)</li>
     <li>📫 Do you want to chat ? <a href="mailto:carlo.soravia99@gmail.com">Click Me!</a></li>
   </ul>
 </p>

@@ -22,6 +22,8 @@
         <a href="https://www.berinox.com/" target="_blank">berinox.com</a>: The frontend of the site was an already existing template which was created by an old employee of the company.
         <br>
         For this project i've created all the pages but i didn't touch the navbar or other parts, my task was to create the pages and improve the video on the homepage. 
+        <br>
+        It uses Twig as engine template, Bootstrap 3 plus CSS for gryds and JS for the logic. 
     </li>
   </ul>
 </p>

@@ -3,7 +3,7 @@ Hi, I'm [@Carlo Soravia](https://www.linkedin.com/in/carlo-soravia-a7738218a/), 
 
 I was born as a geek and i ejoyed the tech world since then.
 
-In the secodary school i choose the scientifc branch, and i studied C++, after some jobs during 2022 i decided to learn web development and now, after a bootcamp and some projects i'm working with [@DB Strategy](https://www.linkedin.com/in/carlo-soravia-a7738218a/) as a Full-Stack Web Developer.
+In the secodary school i choose the scientifc branch, and i studied C++, after some jobs during 2022 i decided to learn web development and now, after a bootcamp and some projects i'm working with [@DB Strategy](https://www.dbstrategy.com/it/) as a Full-Stack Web Developer.
 
 
 ## 🛠 My Skills

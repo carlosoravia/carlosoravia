@@ -39,6 +39,29 @@ This feature was created with Javascript Vanilla.
 For this project i've created all the pages but i didn't touch the navbar or other parts, my task was to create the pages and improve the video on the homepage.
 It uses Twig as engine template, Bootstrap 3 plus CSS for gryds and JS for the logic.
 
+[ficiphotography.com:](https://www.ficiphotography.com/) |  WORK IN PROGRESS... | This site is for a friend who is a photographer. 
+I choose Laravel 10 (PHP based) as framework with Livewire 2 and Tailwind CSS for front-end.
+The photographer goal was to have a place where manage his photos and shows, plus gahter info requests or new leads.
+
+### Site Features 
+
+The site owner can upload his new images with:
+  - Title.
+  - Caption.
+  - Category.
+
+Upload shows with:
+  - Title.
+  - Event date.
+  - Caption.
+  - Images of the show.
+
+Manage site's content with a personalized Dashboard:
+    -  Manage request infos inside his Dashboard.
+    -  Manage site content form tables with controls such "delete", etc...
+    -  Have site Insights about users, info request, etc...
+
+
 ## Something more about me!
 
 I really enjoy playing instruments such: guitar 🎵, bass 🎸 and piano 🎹.

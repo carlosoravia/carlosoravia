@@ -7,7 +7,6 @@ In the secodary school i choose the scientifc branch, and i studied C++, after s
 
 
 ## 🛠 My Skills
-The concepts from my secodary school are vanished, because i don't use to code much, but with Arduino i'm engaging again some C++ concepts.
 
 #### Languages I Know:
 - HTML 
@@ -27,6 +26,10 @@ The concepts from my secodary school are vanished, because i don't use to code m
 
 #### I'm currently lenarning:
 - Livewire 
+
+#### Take a look at my repository 
+[@Click me!]([https://www.linkedin.com/in/carlo-soravia-a7738218a/](https://github.com/carlosoravia?tab=repositories))
+
 
 ## Sites I've worked on
 [duelune.com:](https://www.duelune.com/) for this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this project was to follow the screenshots given by the other team and nothing more.

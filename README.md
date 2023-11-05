@@ -28,7 +28,7 @@ In the secodary school i choose the scientifc branch, and i studied C++, after s
 - Livewire 
 
 #### Take a look at my repository 
-[Click me!]([https://www.linkedin.com/in/carlo-soravia-a7738218a/](https://github.com/carlosoravia?tab=repositories))
+[Click me!](https://github.com/carlosoravia?tab=repositories)
 
 
 ## Sites I've worked on

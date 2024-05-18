@@ -1,3 +1,4 @@
+<base target="_blank">
 # 🚀 About Me
 Hi, I'm [@Carlo Soravia](https://www.linkedin.com/in/carlo-soravia-a7738218a/), I'm an italian web developer full-stack front-end oriented.
 

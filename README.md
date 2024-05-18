@@ -32,7 +32,7 @@ In the secodary school i choose the scientifc branch, and i studied C++, after s
 
 
 ## Sites I've worked on
-[studioingleseivy.com:](https://www.studioingleseivy.com/) <a src="https://www.studioingleseivy.com/" target="_blank"> sos</a> On this project i've develop the UX/UI and i used Wordpress.
+[studioingleseivy.com:](https://www.studioingleseivy.com/) On this project i've develop the UX/UI and i used Wordpress.
 During this project i was by my own and the client told me what he wanted, like the color palette and other UI customizations.
 
 [duelune.com:](https://www.duelune.com/) For this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this project was to follow the screenshots given by the other team and nothing more.

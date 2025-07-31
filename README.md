@@ -32,9 +32,6 @@ In the secodary school i choose the scientifc branch, and i studied C++, after s
 
 
 ## Sites I've worked on
-[studioingleseivy.com:](https://www.studioingleseivy.com/) On this project i've develop the UX/UI and i used Wordpress.
-During this project i was by my own and the client told me what he wanted, like the color palette and other UI customizations.
-
 [duelune.com:](https://www.duelune.com/) For this site i've developed the entire front-end from an UX/UI develeped from an external team, my role on this project was to follow the screenshots given by the other team and nothing more.
 I used Tiwig as engine template (PHP based) with a CSM for special offers or other dynamic contents.
 For front-end part we decided to use Bootstrap for gryds parts, Jquery / CSS for animations and Vanilla Javascript fot the logic.
@@ -44,29 +41,6 @@ This feature was created with Javascript Vanilla.
 [berinox.com:](https://www.berinox.com/) The frontend of the site was an already existing template which was created by an old employee of the company.
 For this project i've created all the pages but i didn't touch the navbar or other parts, my task was to create the pages and improve the video on the homepage.
 It uses Twig as engine template, Bootstrap 3 plus CSS for gryds and JS for the logic.
-
-[ficiphotography.com:](https://www.ficiphotography.com/) |  WORK IN PROGRESS... | This site is for a friend who is a photographer. 
-I choose Laravel 10 (PHP based) as framework with Livewire 2 and Tailwind CSS for front-end.
-The photographer goal was to have a place where manage his photos and shows, plus gahter info requests or new leads.
-
-### Site Features 
-
-The site owner can upload his new images with:
-  - Title.
-  - Caption.
-  - Category.
-
-Upload shows with:
-  - Title.
-  - Event date.
-  - Caption.
-  - Images of the show.
-
-Manage site's content with a personalized Dashboard:
-    -  Manage request infos inside his Dashboard.
-    -  Manage site content form tables with controls such "delete", etc...
-    -  Have site Insights about users, info request, etc...
-
 
 ## Something more about me!
 
